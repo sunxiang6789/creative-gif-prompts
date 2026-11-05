@@ -1,0 +1,6 @@
+interface:
+  display_name: "Creative GIF Prompts"
+  short_description: "31 looping GIF recipes with output verification"
+  default_prompt: "Use $creative-gif-prompts to create a looping character animation from my reference image and verify the actual output format."
+policy:
+  allow_implicit_invocation: true
